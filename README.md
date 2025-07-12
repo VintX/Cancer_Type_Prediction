@@ -2,6 +2,8 @@
 
 This project uses machine learning models to predict cancer types based on biological data features.
 
+The used dataset can be collected on here : https://www.kaggle.com/datasets/khushikyad001/cancer-patient-data-in-denmark
+
 ## 📌 Overview
 
 We compare three classification models:
